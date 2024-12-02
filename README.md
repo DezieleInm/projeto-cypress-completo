@@ -32,7 +32,7 @@ Na página de pagamento, o teste valida se o produto que foi adicionado ao carri
 Versões utilizadas:
 Node.js v21.7.3 
 npm 10.9.1.
-Sugiro que você use as versões recentes
+Sugiro que você use as versões recentes.
 
 ### Comandos para instalar as versões mais recentes de todos os pacotes
 
