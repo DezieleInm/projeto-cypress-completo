@@ -44,6 +44,15 @@ npm install cypress@latest
 
 npm install webpack@latest
 
+### Comando para executar
+npm run cy:open
+
+
+
+
+
+
+
 
 
 
