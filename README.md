@@ -28,22 +28,21 @@ Na página de pagamento, o teste valida se o produto que foi adicionado ao carri
 - **JavaScript**: Linguagem de programação utilizada para escrever os testes.
 - **Node.js**: Ambiente de execução de JavaScript.
 
-## Como Rodar o Projeto
-
 ### Pré-requisitos
-Certifique-se de ter o **Node.js** e o **npm** instalados em sua máquina.
+É necessário ter o Node.js e o npm instalados para executar este projeto.
 
-### Passo 1: Clonar o repositório
+Versões utilizadas:
+Node.js v21.7.3 
+npm 10.9.1.
+Sugiro que você use as versões recentes
 
-Clone o repositório do projeto:
+### Comandos para instalar as versões mais recentes de todos os pacotes
 
-```bash
-git clone https://github.com/DezieleInm/projeto-cypress-completo.git
+npm install @badeball/cypress-cucumber-preprocessor@latest
+npm install @cypress/webpack-preprocessor@latest
+npm install cypress@latest
+npm install webpack@latest
 
-###  Instalar as dependências
-npm install
 
-### Excutar o teste
-npx cypress open
 
 
