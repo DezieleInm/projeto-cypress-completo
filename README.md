@@ -31,7 +31,7 @@ Na página de pagamento, o teste valida se o produto que foi adicionado ao carri
 ## Como Rodar o Projeto
 
 ### Pré-requisitos
-Certifique-se de ter o **Node.js** e o **npm** instalados em sua máquina. Você pode baixar o Node.js em: https://nodejs.org/.
+Certifique-se de ter o **Node.js** e o **npm** instalados em sua máquina.
 
 ### Passo 1: Clonar o repositório
 
