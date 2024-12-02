@@ -1,5 +1,3 @@
-# Projeto-Cypress-Completo
-
 # Desafio Web: Automação de Testes - Advantage Online Shopping
 
 ## Descrição
