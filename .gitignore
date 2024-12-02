@@ -1,0 +1,18 @@
+# Ignorar arquivos temporários do VS Code
+.vscode/
+
+# Ignorar arquivos de dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de build
+/dist/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar a pasta .env com variáveis de ambiente
+.env
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
