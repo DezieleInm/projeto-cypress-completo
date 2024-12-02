@@ -21,7 +21,6 @@ Then("o sistema deve exibir uma lista de produtos relacionados ao termo de busca
 Then("o produto 'Mice' deve estar presente na lista de resultados", () => {
     searchPage.validateItemReturned()
 })
-//-----------------------------------------------------------------------------------------//
 
 //-----------------------------Segundo cenário de teste------------------------------------//
 Given("que o usuário está na página de detalhes do produto 'Mice'", () => {
@@ -43,7 +42,6 @@ Then("o sistema deve exibir uma confirmação de que o produto foi adicionado", 
 Then("o produto 'Mice' deve aparecer na lista de itens no carrinho", () => {
     cartPage.validateItemAdded()
 })
-//-----------------------------------------------------------------------------------------//
 
 //-----------------------------Terceiro cenário de teste------------------------------------//
 Given("que o usuário está na página do carrinho de compras", () => {
