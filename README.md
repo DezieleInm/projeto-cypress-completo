@@ -37,9 +37,13 @@ Sugiro que você use as versões recentes.
 ### Comandos para instalar as versões mais recentes de todos os pacotes
 
 npm install @badeball/cypress-cucumber-preprocessor@latest
+
 npm install @cypress/webpack-preprocessor@latest
+
 npm install cypress@latest
+
 npm install webpack@latest
+
 
 
 
