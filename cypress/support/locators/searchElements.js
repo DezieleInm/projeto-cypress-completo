@@ -4,7 +4,7 @@ class searchElements {
     get titleItemsCount() {
         return '.titleItemsCount';
     }
-  // Item pesquisado (usando um seletor mais específico)
+ // Item pesquisado (usando um seletor mais específico)
     get searchedItem() {
         return ':nth-child(1) > :nth-child(4) > .productName';
     }
